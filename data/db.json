@@ -279,9 +279,9 @@
   ],
   "users": [
     {
-      "email": "shubham@example.com",
-      "password": "$2a$10$K9aEH3/VDb2QU/EsjrHGJO7X5JxCcg0bMAnBtyT3kBW9FL7FnnygO",
-      "name": "Shubham Sarda",
+      "email": "omid@example.com",
+      "password": "$2a$10$BsPmsnd5X39Y2PaiZa0Fj.xK8xV6vR9TNt4IxRSUccOwy2Wqr9A4G",
+      "name": "Omid",
       "id": 1
     }
   ]
